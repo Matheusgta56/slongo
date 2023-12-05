@@ -1,5 +1,5 @@
-import Aside from "../components/Aside"
 import NavBar from "../components/NavBar"
+import Aside from "../components/Aside"
 
 export default function AdminLayout({
     children,
